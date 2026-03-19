@@ -70,3 +70,5 @@ No automatic tree detection is perfect in every edge case, but the current syste
 
 - Java 21
 - Paper 1.21.x
+
+https://i.ibb.co/KcFHNbHD/tree.gif
